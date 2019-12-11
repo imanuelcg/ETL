@@ -1,2 +1,2 @@
 # postgresql Key
-gkey = "postgres:{password}@localhost:{port}/ETL"
+gkey = "postgres:prince12345@localhost:5432/ETL"
